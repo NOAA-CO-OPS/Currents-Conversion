@@ -1,0 +1,270 @@
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.prf]
+---------------------------------------------------------------------
+Number of measurements                12964
+Number of checksum errors             0
+Time of first measurement             9/24/2021 3:28:30 PM
+Time of last measurement              11/17/2021 3:46:30 PM
+
+User setup
+---------------------------------------------------------------------
+Profile interval                      360 sec
+Number of cells                       27
+Cell size                             100 cm
+Average interval                      180 sec
+Measurement load                      75 %
+Transmit pulse length                 1.00 m
+Blanking distance                     0.50 m
+Compass update rate                   360 sec
+Distance measurements                 DISABLED
+Wave measurements                     DISABLED
+Wave - Powerlevel                     LOW
+Wave - Interval                       2160 sec
+Wave - Number of samples              1024
+Wave - Sampling rate                  1 Hz
+Wave - Cell size                      4.00 m
+Analog input 1                        NONE
+Analog input 2                        NONE
+Power output                          DISABLED
+Powerlevel                            LOW
+Coordinate system                     XYZ
+Sound speed                           MEASURED
+Salinity                              1.0 ppt
+Distance between pings                60.01 m
+Number of beams                       3
+Number of pings per burst             3
+Software version                      1.37.08
+Deployment name                       DEB23
+Wrap mode                             OFF
+Deployment time                       9/24/2021 3:28:30 PM
+Comments                              DEB2123
+                                      Start 90 sec before 6 min interval
+                                      Sidelooker on bridge
+System1                               56
+System2                               73
+System3                               14
+System4                               2622
+System5                               512
+System9                               49248
+System10                              96
+System11                              0
+System12                              0
+System13                              0
+System14                              360
+System16                              27
+System17                              3545
+System22                              2160
+System28                              1
+System29                              1
+System30                              4
+System31                              15103 15133 15162 15192
+System32                              0
+System33                              0
+System34                              200
+System35                              219
+System36                              12851
+System38                              0
+System39                              0
+System40                              10
+System41                              0
+System42                              0
+System43                              0
+System44                              0
+System45                              6
+Start command                         Recorder deployment
+CRC download                          ON
+
+Hardware configuration
+---------------------------------------------------------------------
+Serial number                         AQD12919
+Hardware revision                     4 (E)
+Recorder size                         9 MByte
+Firmware version                      3.40
+Velocity range                        NORMAL
+Power output                          12V
+Sync signal data out delay            0 sec
+Sync signal power down delay          0 sec
+
+Head configuration
+---------------------------------------------------------------------
+Pressure sensor                       YES
+Compass                               YES
+Tilt sensor                           YES
+System 1                              1
+Head frequency                        600 kHz
+Serial number                         SVP 2370
+Transformation matrix                 0.5520 0.5520 0.0000
+                                      -1.1831 1.1831 0.0000
+                                      0.0000 0.0000 0.0000
+Magnetometer calibration matrix       1.0000 0.0555 -0.0072
+                                      -0.0330 0.9938 0.0227
+                                      0.0013 -0.0165 0.9760
+Compass hard iron calibration         11 -3 -146
+Pressure sensor calibration           0 0 15632 8676
+Number of beams                       2
+System5                               25 25 25 0
+System7                               -21560 1661 12098 -204
+                                      -21286 -568 12176 155
+System8                               0 0 -1
+                                      0 1 0
+                                      1 0 0
+System9                               0 0 -1
+                                      0 -1 0
+                                      -1 0 0
+System10                              0 -1 1 0
+System11                              0 -1 -1 0
+System13                              1481 259 7128 10854
+System14                              -23548 2407 12788 -549
+                                      -24363 2504 12870 -459
+System15                              32767 1818 -235 -1080
+                                      32565 743 44 -541
+                                      31980 11 -3 -146
+                                      0 0 0 0
+System16                              0 0 0 0
+System17                              5461
+System18                              3600
+System19                              3600
+System20                              10000
+
+
+Current profile cell center distance from head (m)
+---------------------------------------------------------------------
+  1    1.50
+  2    2.50
+  3    3.50
+  4    4.50
+  5    5.50
+  6    6.50
+  7    7.50
+  8    8.50
+  9    9.50
+ 10   10.50
+ 11   11.50
+ 12   12.50
+ 13   13.50
+ 14   14.50
+ 15   15.50
+ 16   16.50
+ 17   17.50
+ 18   18.50
+ 19   19.50
+ 20   20.50
+ 21   21.50
+ 22   22.50
+ 23   23.50
+ 24   24.50
+ 25   25.50
+ 26   26.50
+ 27   27.50
+
+Data file format
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.v1]
+ 1   Velocity Cell 1 (Beam1|X|East)   (m/s)
+ 2   Velocity Cell 2 (Beam1|X|East)   (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam1|X|East)   (m/s)
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.v2]
+ 1   Velocity Cell 1 (Beam2|Y|North)  (m/s)
+ 2   Velocity Cell 2 (Beam2|Y|North)  (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam2|Y|North)  (m/s)
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.v3]
+ 1   Velocity Cell 1 (Beam3|Z|Up)     (m/s)
+ 2   Velocity Cell 2 (Beam3|Z|Up)     (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam3|Z|Up)     (m/s)
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.a1]
+ 1   Amplitude Cell 1 (Beam1)         (counts)
+ 2   Amplitude Cell 2 (Beam1)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam1)         (counts)
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.a2]
+ 1   Amplitude Cell 1 (Beam2)         (counts)
+ 2   Amplitude Cell 2 (Beam2)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam2)         (counts)
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.a3]
+ 1   Amplitude Cell 1 (Beam3)         (counts)
+ 2   Amplitude Cell 2 (Beam3)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam3)         (counts)
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.sen]
+ 1   Month                            (1-12)
+ 2   Day                              (1-31)
+ 3   Year
+ 4   Hour                             (0-23)
+ 5   Minute                           (0-59)
+ 6   Second                           (0-59)
+ 7   Error code
+ 8   Status code
+ 9   Battery voltage                  (V)
+10   Soundspeed                       (m/s)
+11   Heading                          (degrees)
+12   Pitch                            (degrees)
+13   Roll                             (degrees)
+14   Pressure                         (dbar)
+15   Temperature                      (degrees C)
+16   Analog input 1
+17   Analog input 2
+
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.dat]
+Header...
+ 1   Month                            (1-12)
+ 2   Day                              (1-31)
+ 3   Year
+ 4   Hour                             (0-23)
+ 5   Minute                           (0-59)
+ 6   Second                           (0-59)
+ 7   Error code
+ 8   Status code
+ 9   Battery voltage                  (V)
+10   Soundspeed                       (m/s)
+11   Heading                          (degrees)
+12   Pitch                            (degrees)
+13   Roll                             (degrees)
+14   Pressure                         (dbar)
+15   Temperature                      (degrees C)
+16   Analog input 1
+17   Analog input 2
+18   Number of beams
+19   Number of cells
+
+Velocity profile...
+ 1   Cell number
+ 2   Cell position                    (m)
+ 3   Velocity (Beam1|X|East)          (m/s)
+ 4   Velocity (Beam2|Y|North)         (m/s)
+ 5   Velocity (Beam3|Z|Up)            (m/s)
+ 6   Amplitude (Beam1)                (counts)
+ 7   Amplitude (Beam2)                (counts)
+ 8   Amplitude (Beam3)                (counts)
+ 9   Speed                            (m/s)
+ 10  Direction                        (degrees)
+ ...repeated for all cells in profile.
+---------------------------------------------------------------------
+[C:\Users\katherine.kirk\Documents\Delaware_Bay\Recoveries_Nov_2021\Data\DEB2123\DEB2301.csv]
+ 1   DateTime                         
+ 2   Battery voltage                  (V)
+ 3   Heading                          (degrees)
+ 4   Pitch                            (degrees)
+ 5   Roll                             (degrees)
+ 6   Pressure                         (dbar)
+ 7   Temperature                      (degrees C)
+ 8   Analog input 1
+ 9   Analog input 2
+10   Speed cell 1                     (m/s)
+11   Direction cell 1                 (degrees)
+10-11 repeated for all cells in profile.
