@@ -1,0 +1,275 @@
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.PRF]
+---------------------------------------------------------------------
+Number of measurements                13693
+Number of checksum errors             0
+Time of first measurement             9/20/2021 17:22:30
+Time of last measurement              11/16/2021 18:34:30
+
+User setup
+---------------------------------------------------------------------
+Profile interval                      360 sec
+Number of cells                       16
+Cell size                             100 cm
+Average interval                      180 sec
+Measurement load                      50 %
+Transmit pulse length                 1.00 m
+Blanking distance                     0.40 m
+Z-cell - Cell size                    50 cm
+Z-cell - Blanking distance            0.41 m
+Z-cell - Powerlevel                   HIGH
+Compass update rate                   1 sec
+Distance measurements                 DISABLED
+Wave measurements                     DISABLED
+Wave - Powerlevel                     LOW
+Wave - Interval                       1080 sec
+Wave - Number of samples              1024
+Wave - Sampling rate                  1 Hz
+Wave - Cell size                      2.00 m
+Analog input 1                        NONE
+Analog input 2                        NONE
+Power output                          DISABLED
+Powerlevel                            LOW
+Coordinate system                     ENU
+Sound speed                           MEASURED
+Salinity                              1.0 ppt
+Distance between pings                31.01 m
+Number of beams                       3
+Number of pings per burst             4
+Software version                      1.37.08
+Deployment name                       DEB31
+Wrap mode                             OFF
+Deployment time                       9/20/2021 17:22:30
+Comments                              DEB2131
+                                      Pressure offset 2.2; Compass cal w/ tilt 3.4
+                                      Start 90 sec ahead of int
+System1                               92
+System2                               68
+System3                               24
+System4                               1355
+System5                               512
+System9                               49248
+System10                              96
+System11                              0
+System12                              0
+System13                              0
+System14                              1
+System16                              16
+System17                              5908
+System22                              1080
+System28                              1
+System29                              1
+System30                              7
+System31                              15103 15133 15162 15192
+System32                              0
+System33                              0
+System34                              167
+System35                              110
+System36                              10709
+System38                              0
+System39                              0
+System40                              10
+System41                              0
+System42                              0
+System43                              0
+System44                              0
+System45                              6
+System46                              84
+System47                              40
+System48                              21
+Start command                         Recorder deployment
+CRC download                          ON
+
+Hardware configuration
+---------------------------------------------------------------------
+Serial number                         AQD14617
+Hardware revision                     4 (E)
+Recorder size                         3773 MByte
+Firmware version                      3.42
+Velocity range                        NORMAL
+Power output                          12V
+Sync signal data out delay            0 sec
+Sync signal power down delay          0 sec
+ProLog ID                             2386
+ProLog firmware version               4.24
+SD Card Inserted                      YES
+SD Card Ready                         YES
+SD Card Write protected               NO
+SD Card Type                          SDHC
+SD Card Supported                     YES
+
+Head configuration
+---------------------------------------------------------------------
+Pressure sensor                       YES
+Compass                               YES
+Tilt sensor                           YES
+System 1                              1
+Head frequency                        1000 kHz
+Serial number                         A1Z 9258
+Transformation matrix                 1.5774 -0.7891 -0.7891
+                                      0.0000 -1.3662 1.3662
+                                      0.3677 0.3677 0.3677
+Z-cell transformation matrix          0.6042 -0.0581 -0.5461
+                                      0.2817 -0.6641 0.3823
+                                      0.4714 0.4714 0.4714
+Magnetometer calibration matrix       0.8362 -0.0604 -0.0042
+                                      0.0284 1.0000 0.0051
+                                      0.0025 -0.0024 0.9789
+Compass hard iron calibration         -676 208 -10
+Pressure sensor calibration           0 0 18397 8932
+Number of beams                       3
+System5                               25 25 25 0
+System7                               -26973 -2319 13124 326
+                                      -26287 671 13092 -35
+System8                               0 0 -1
+                                      0 1 0
+                                      1 0 0
+System9                               0 0 -1
+                                      0 -1 0
+                                      -1 0 0
+System10                              0 -1 1 0
+System11                              0 -1 -1 0
+System13                              1481 259 7128 10861
+System14                              -30069 -1802 14059 200
+                                      -29859 3519 13963 -612
+System15                              27399 -1979 -138 931
+                                      32767 168 82 -79
+                                      32076 -676 208 -10
+                                      0 0 0 0
+System16                              0 0 0 0
+System17                              5461
+System18                              3600
+System19                              3600
+System20                              10000
+
+
+Current profile cell center distance from head (m)
+---------------------------------------------------------------------
+  0    0.00
+  1    1.40
+  2    2.40
+  3    3.40
+  4    4.40
+  5    5.40
+  6    6.40
+  7    7.40
+  8    8.40
+  9    9.40
+ 10   10.40
+ 11   11.40
+ 12   12.40
+ 13   13.40
+ 14   14.40
+ 15   15.40
+
+Data file format
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.v1]
+ 1   Velocity Cell 0 (Beam1|X|East)   (m/s)
+ 2   Velocity Cell 1 (Beam1|X|East)   (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam1|X|East)   (m/s)
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.v2]
+ 1   Velocity Cell 0 (Beam2|Y|North)  (m/s)
+ 2   Velocity Cell 1 (Beam2|Y|North)  (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam2|Y|North)  (m/s)
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.v3]
+ 1   Velocity Cell 0 (Beam3|Z|Up)     (m/s)
+ 2   Velocity Cell 1 (Beam3|Z|Up)     (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam3|Z|Up)     (m/s)
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.a1]
+ 1   Amplitude Cell 0 (Beam1)         (counts)
+ 2   Amplitude Cell 1 (Beam1)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam1)         (counts)
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.a2]
+ 1   Amplitude Cell 0 (Beam2)         (counts)
+ 2   Amplitude Cell 1 (Beam2)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam2)         (counts)
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.a3]
+ 1   Amplitude Cell 0 (Beam3)         (counts)
+ 2   Amplitude Cell 1 (Beam3)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam3)         (counts)
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.sen]
+ 1   Month                            (1-12)
+ 2   Day                              (1-31)
+ 3   Year
+ 4   Hour                             (0-23)
+ 5   Minute                           (0-59)
+ 6   Second                           (0-59)
+ 7   Error code
+ 8   Status code
+ 9   Battery voltage                  (V)
+10   Soundspeed                       (m/s)
+11   Heading                          (degrees)
+12   Pitch                            (degrees)
+13   Roll                             (degrees)
+14   Pressure                         (dbar)
+15   Temperature                      (degrees C)
+16   Analog input 1
+17   Analog input 2
+
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.dat]
+Header...
+ 1   Month                            (1-12)
+ 2   Day                              (1-31)
+ 3   Year
+ 4   Hour                             (0-23)
+ 5   Minute                           (0-59)
+ 6   Second                           (0-59)
+ 7   Error code
+ 8   Status code
+ 9   Battery voltage                  (V)
+10   Soundspeed                       (m/s)
+11   Heading                          (degrees)
+12   Pitch                            (degrees)
+13   Roll                             (degrees)
+14   Pressure                         (dbar)
+15   Temperature                      (degrees C)
+16   Analog input 1
+17   Analog input 2
+18   Number of beams
+19   Number of cells
+
+Velocity profile...
+ 1   Cell number
+ 2   Cell position                    (m)
+ 3   Velocity (Beam1|X|East)          (m/s)
+ 4   Velocity (Beam2|Y|North)         (m/s)
+ 5   Velocity (Beam3|Z|Up)            (m/s)
+ 6   Amplitude (Beam1)                (counts)
+ 7   Amplitude (Beam2)                (counts)
+ 8   Amplitude (Beam3)                (counts)
+ 9   Speed                            (m/s)
+ 10  Direction                        (degrees)
+ ...repeated for all cells in profile.
+---------------------------------------------------------------------
+[C:\Users\CECAT\Documents\Delaware\DEB_Survey_2021\Recoveries_Nov2021\Data\DEB2131\DEB3102.csv]
+ 1   DateTime                         
+ 2   Battery voltage                  (V)
+ 3   Heading                          (degrees)
+ 4   Pitch                            (degrees)
+ 5   Roll                             (degrees)
+ 6   Pressure                         (dbar)
+ 7   Temperature                      (degrees C)
+ 8   Analog input 1
+ 9   Analog input 2
+10   Speed cell 1                     (m/s)
+11   Direction cell 1                 (degrees)
+10-11 repeated for all cells in profile.
