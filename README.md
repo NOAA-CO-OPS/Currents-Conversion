@@ -1,5 +1,5 @@
 # Currents-Conversion
-Code needed to convert raw ADCP data into a format that is compatible for ingestion into the database.
+Code needed to convert raw ADCP data collected in NCOP Current Surveys into a format that is compatible for ingestion into the database.
 
 # Scripts:
 1. ‘NortekFileConversion.m’
