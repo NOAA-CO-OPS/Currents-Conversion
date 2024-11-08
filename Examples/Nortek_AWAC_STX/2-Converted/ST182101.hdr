@@ -1,0 +1,210 @@
+[C:\Users\kirk.glassmire\Desktop\stx\Files\1\ST182101.wpr]
+---------------------------------------------------------------------
+Number of measurements                2360
+Number of checksum errors             0
+Time of first measurement             11/21/2017 9:21:00 PM
+Time of last measurement              12/1/2017 5:15:00 PM
+
+User setup
+---------------------------------------------------------------------
+Profile interval                      360 sec
+Number of cells                       30
+Cell size                             400 cm
+Average interval                      180 sec
+Measurement load                      33 %
+Transmit pulse length                 4.00 m
+Blanking distance                     1.00 m
+Compass update rate                   360 sec
+Wave measurements                     DISABLED
+Wave - Powerlevel                     HIGH
+Wave - Interval                       5400 sec
+Wave - Number of samples              1024
+Wave - Sampling rate                  0.75 Hz
+Onboard wave processing               DISABLED
+Analog input 1                        STANDARD
+Analog input 2                        NONE
+Power output                          DISABLED
+Powerlevel                            HIGH
+Coordinate system                     XYZ
+Sound speed                           MEASURED
+Salinity                              35.0 ppt
+Distance between pings                144.72 m
+Number of beams                       2
+Number of pings per burst             1
+Software version                      1.47.05
+Deployment name                       ST1821
+Wrap mode                             ON
+Deployment time                       11/21/2017 9:21:00 PM
+Comments                              
+System1                               147
+System2                               241
+System3                               37
+System4                               6323
+System5                               512
+System9                               0
+System10                              0
+System11                              0
+System12                              0
+System13                              0
+System14                              360
+System16                              30
+System17                              9445
+System22                              5400
+System28                              1
+System29                              0
+System30                              1
+System31                              15618 15646 15673 15699
+System32                              70
+System33                              31129
+System34                              33
+System35                              180
+System36                              2142
+System38                              0
+System39                              0
+System40                              158
+System41                              0
+System42                              0
+System43                              0
+System44                              0
+System45                              6
+Start command                         Recorder deployment
+CRC download                          ON
+
+Hardware configuration
+---------------------------------------------------------------------
+Serial number                         WPR 2476
+Hardware revision                     3 (D)
+Recorder size                         9 MByte
+Firmware version                      3.38
+Velocity range                        NORMAL
+Power output                          12V
+Sync signal data out delay            0 sec
+Sync signal power down delay          0 sec
+
+Head configuration
+---------------------------------------------------------------------
+Pressure sensor                       YES
+Compass                               YES
+Tilt sensor                           YES
+System 1                              1
+Head frequency                        400 kHz
+Serial number                         WHV 7322
+Transformation matrix                 0.5520 0.5520 0.0000
+                                      -1.1831 1.1831 0.0000
+                                      0.0000 0.0000 0.0000
+Magnetometer calibration matrix       0.9582 0.0027 0.0008
+                                      -0.0023 0.9574 -0.0148
+                                      -0.0016 -0.0069 1.0000
+Compass hard iron calibration         28 122 71
+Pressure sensor calibration           55431 36173 5957 45396
+Number of beams                       2
+System5                               25 25 0 0
+System7                               -24857 1164 13079 -597
+                                      -26187 1699 13392 -356
+System8                               0 0 1
+                                      1 0 0
+                                      0 1 0
+System9                               0 0 1
+                                      -1 0 0
+                                      0 1 0
+System10                              1 0 0 1
+System11                              1 0 0 -1
+System13                              1481 259 7128 10869
+System14                              -21479 812 12112 198
+                                      -22162 -2087 12282 151
+System15                              31398 87 25 -74
+                                      31372 -486 -51 -227
+                                      32767 28 122 71
+                                      0 0 0 0
+System16                              0 0 0 0
+System17                              5461
+System18                              3600
+System19                              3600
+System20                              10000
+
+
+Current profile cell center distance from head (m)
+---------------------------------------------------------------------
+  1    5.00
+  2    9.00
+  3   13.00
+  4   17.00
+  5   21.00
+  6   25.00
+  7   29.00
+  8   33.00
+  9   37.00
+ 10   41.00
+ 11   45.00
+ 12   49.00
+ 13   53.00
+ 14   57.00
+ 15   61.00
+ 16   65.00
+ 17   69.00
+ 18   73.00
+ 19   77.00
+ 20   81.00
+ 21   85.00
+ 22   89.00
+ 23   93.00
+ 24   97.00
+ 25  101.00
+ 26  105.00
+ 27  109.00
+ 28  113.00
+ 29  117.00
+ 30  121.00
+
+Data file format
+---------------------------------------------------------------------
+[C:\Users\kirk.glassmire\Desktop\stx\Files\1\ST182101.v1]
+ 1   Velocity Cell 1 (Beam1|X|East)   (m/s)
+ 2   Velocity Cell 2 (Beam1|X|East)   (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam1|X|East)   (m/s)
+
+---------------------------------------------------------------------
+[C:\Users\kirk.glassmire\Desktop\stx\Files\1\ST182101.v2]
+ 1   Velocity Cell 1 (Beam2|Y|North)  (m/s)
+ 2   Velocity Cell 2 (Beam2|Y|North)  (m/s)
+     .
+     .
+ n   Velocity Cell n (Beam2|Y|North)  (m/s)
+
+---------------------------------------------------------------------
+[C:\Users\kirk.glassmire\Desktop\stx\Files\1\ST182101.a1]
+ 1   Amplitude Cell 1 (Beam1)         (counts)
+ 2   Amplitude Cell 2 (Beam1)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam1)         (counts)
+
+---------------------------------------------------------------------
+[C:\Users\kirk.glassmire\Desktop\stx\Files\1\ST182101.a2]
+ 1   Amplitude Cell 1 (Beam2)         (counts)
+ 2   Amplitude Cell 2 (Beam2)         (counts)
+     .
+     .
+ n   Amplitude Cell n (Beam2)         (counts)
+
+---------------------------------------------------------------------
+[C:\Users\kirk.glassmire\Desktop\stx\Files\1\ST182101.sen]
+ 1   Month                            (1-12)
+ 2   Day                              (1-31)
+ 3   Year
+ 4   Hour                             (0-23)
+ 5   Minute                           (0-59)
+ 6   Second                           (0-59)
+ 7   Error code
+ 8   Status code
+ 9   Battery voltage                  (V)
+10   Soundspeed                       (m/s)
+11   Heading                          (degrees)
+12   Pitch                            (degrees)
+13   Roll                             (degrees)
+14   Pressure                         (dbar)
+15   Temperature                      (degrees C)
+16   Analog input 1
+17   Analog input 2
